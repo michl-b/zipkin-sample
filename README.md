@@ -2,9 +2,9 @@
 Zipkin Sample with Spring Boot, Eureka, Docker &amp; Zipkin
 
 ## run environment
-´´´bash
+```bash
 docker-compose -d up
-´´´
+```
 is running following:
 - mysql DB as storage
 - Zipkin Server
