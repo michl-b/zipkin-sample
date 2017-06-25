@@ -16,3 +16,6 @@ is a Restful Spring Boot Service with a simple API /api/test/ping
 
 ## rest-client
 is a simple Spring Boot App which is using the API of rest-service via Feign Interface
+
+## for Spring 4 MVC App
+see https://github.com/openzipkin/brave-webmvc-example
